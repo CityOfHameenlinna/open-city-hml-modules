@@ -1,6 +1,6 @@
 # Open City App Hämeenlinna Modules
 
-This repository contains modules meant to be used in projects derived from [`open-city-hml` repository](https://github.com/alykkaatpalvelut/open-city-hml).
+This repository contains modules meant to be used in projects derived from [`open-city-hml` repository](https://github.com/CityOfHameenlinna/open-city-hml).
 
 Open City Hämeenlinna Modules has been developed using:
 
@@ -11,7 +11,7 @@ Open City Hämeenlinna Modules has been developed using:
 
 This repository can be imported to an existing project using `npm install`.
 
-`npm install https://github.com/alykkaatpalvelut/open-city-hml-modules` installs the following files:
+`npm install https://github.com/CityOfHameenlinna/open-city-hml` installs the following files:
 ```
   "files":[
     "src/",
@@ -30,7 +30,7 @@ Pre-install requirements:
 - Android emulator or a physical device running Android 4.1.2 or higher
 
 Install steps:
-- Clone the repository i.e with Git using `git clone https://github.com/alykkaatpalvelut/open-city-hml-modules.git`
+- Clone the repository i.e with Git using `git clone https://github.com/CityOfHameenlinna/open-city-hml.git`
 - Run `npm install` in the root of the project folder
 - Run the project with `react-native run-android`
 
